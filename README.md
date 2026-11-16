@@ -67,6 +67,7 @@ Open standards to help agents communicate, perform actions, and generate interfa
 *   **[Agent Policies](https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/policies/overview)** - IAM Policies specifically for agents. (Private Preview)
 *   **[Agent Registry](https://docs.cloud.google.com/agent-registry/overview)** - Enterprise catalog for managing and auditing approved tools and agents.
 *   **[Model Armor](https://docs.cloud.google.com/model-armor/overview)** - Real-time protection against prompt injections, PII leaks, and toxic content.
+*   **[Esmeralda (open-source blueprint)](https://github.com/google/esmeralda)** - End-to-end Terraform blueprint that wires Agent Gateway, Agent Identity, Agent Registry and optional Model Armor around multi-team ADK and A2A agents on Agent Runtime and private MCP tool servers. (Uses Preview features)
 
 ---
 
